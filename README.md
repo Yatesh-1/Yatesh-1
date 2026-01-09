@@ -55,3 +55,10 @@ I am currently seeking an entry-level opportunity in the electronics or embedded
 
 
 [![](https://visitcount.itsvg.in/api?id=Yatesh-1&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+### ✨ Fun Quote
+> "Engineering is not only about theory, it's about making things work in the real world!"  
+
+![Engineering GIF](https://media.giphy.com/media/3o7aCVf0XH33XBpF8k/giphy.gif)
+
