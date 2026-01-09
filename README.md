@@ -26,10 +26,6 @@ I am currently seeking an entry-level opportunity in the electronics or embedded
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
 
-![MPLAB](https://img.shields.io/badge/MPLAB-00599C?style=for-the-badge)
-![Proteus](https://img.shields.io/badge/Proteus-1C1C1C?style=for-the-badge)
-![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
-![Fusion%20360](https://img.shields.io/badge/Fusion%20360-FF6F00?style=for-the-badge&logo=autodesk&logoColor=white)
 
 
 ## Tools (Currently Working On) -
