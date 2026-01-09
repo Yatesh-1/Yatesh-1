@@ -3,11 +3,7 @@
 </p>
 
 # About Me -
-I am an Electronics and Telecommunication Engineering student with a strong interest in embedded systems and real-time electronics. I enjoy building and experimenting with hardware-based systems where theoretical concepts are translated into practical, working solutions.
-
-I have a problem-solving mindset and focus on understanding how embedded systems behave in real-world conditions. I believe in learning through hands-on experimentation, testing, debugging, and continuous improvement at both hardware and firmware levels.
-
-I am currently seeking an entry-level opportunity in the electronics or embedded domain, where I can learn from industry professionals, contribute effectively, and grow as an engineer.
+Electronics and Telecommunication Engineering student with a focused aptitude for embedded systems and real-time electronics. Dedicated to bridging the gap between theoretical frameworks and functional hardware solutions through rigorous prototyping, testing, and debugging. distinct ability to analyze system behavior in real-world environments, driving continuous improvement at both the firmware and hardware levels. Actively pursuing entry-level opportunities to deploy technical acumen within a collaborative, industry-leading team
 
 ---
 
