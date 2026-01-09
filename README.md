@@ -1,6 +1,8 @@
 <p align="center">
   <img src="circuit.jpg" alt="Embedded Circuit Setup" />
 </p>
+
+
 <table width="100%">
   <tr>
     <td width="70%" valign="top">
@@ -14,7 +16,7 @@
     </td>
     <td width="50%" valign="middle">
       <div align="center">
-        <img src="https://media.giphy.com/media/wkSyGueYTnk40/giphy.gif" width="270" alt="Tech Animation">
+        <img src="https://media.giphy.com/media/wkSyGueYTnk40/giphy.gif" width="273" alt="Tech Animation">
       </div>
     </td>
   </tr>
