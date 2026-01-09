@@ -1,9 +1,24 @@
 <p align="center">
   <img src="circuit.jpg" alt="Embedded Circuit Setup" />
 </p>
-
-# About Me -
-Electronics and Telecommunication Engineering student with a focused aptitude for embedded systems and real-time electronics. Dedicated to bridging the gap between theoretical frameworks and functional hardware solutions through rigorous prototyping, testing, and debugging. distinct ability to analyze system behavior in real-world environments, driving continuous improvement at both the firmware and hardware levels. Actively pursuing entry-level opportunities to deploy technical acumen within a collaborative, industry-leading team
+<table width="100%">
+  <tr>
+    <td width="70%" valign="top">
+      <h3>About Me</h3>
+      <p align="justify">
+        Electronics and Telecommunication Engineering student with a strong focus on embedded systems and real-time electronics.
+        Experienced in transforming theoretical concepts into functional hardware through hands-on prototyping, testing, and debugging.
+        Skilled in analyzing real-world system behavior to enhance both firmware and hardware performance.
+        Actively seeking entry-level opportunities to contribute technical expertise within a collaborative, industry-driven team.
+      </p>
+    </td>
+    <td width="50%" valign="middle">
+      <div align="center">
+        <img src="https://media.giphy.com/media/wkSyGueYTnk40/giphy.gif" width="270" alt="Tech Animation">
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
