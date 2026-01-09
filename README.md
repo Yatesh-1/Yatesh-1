@@ -57,8 +57,14 @@ I am currently seeking an entry-level opportunity in the electronics or embedded
 [![](https://visitcount.itsvg.in/api?id=Yatesh-1&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-### ✨ Fun Quote
-> "Engineering is not only about theory, it's about making things work in the real world!"  
 
-![Engineering GIF](https://media.giphy.com/media/3o7aCVf0XH33XBpF8k/giphy.gif)
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3Z2c3h5MG51aDR2cDJuMDRpdm1hZDhlMmxzZGF0b2l0MXpmM3lsayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11e56tPCqD9kjK/giphy.gif" alt="Cool GIF">
+</p>
+
+
+<p align="center">
+  <em> "I am Iron Man… building circuits by day, debugging code by night!"</em><br>
+  <em>⚡ Hardware glitches are scarier than villains, and software bugs are deadlier than Thanos!</em>
+</p>
 
