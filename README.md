@@ -8,7 +8,7 @@
     <td width="70%" valign="top">
       <h3>About Me</h3>
       <p align="justify">
-       "Electronics and Telecommunication Engineering student with a strong focus on embedded systems and real-time electronics. Experienced in transforming theoretical concepts into functional hardware through hands-on prototyping, testing, and debugging. Skilled in analyzing real-world system behavior to enhance both firmware and hardware performance. Passionate about designing innovative solutions that integrate sensors, microcontrollers, and communication protocols to solve practical problems. Adept at learning and applying new technologies quickly, with a keen eye for optimizing efficiency and reliability. Actively seeking entry-level opportunities to contribute technical expertise within a collaborative, industry-driven team while continuing to grow in the field of embedded and IoT systems."
+       Electronics and Telecommunication Engineering student with a strong focus on embedded systems and real-time electronics. Experienced in transforming theoretical concepts into functional hardware through hands-on prototyping, testing, and debugging. Skilled in analyzing real-world system behavior to enhance both firmware and hardware performance. Passionate about designing innovative solutions that integrate sensors, microcontrollers, and communication protocols to solve practical problems. Adept at learning and applying new technologies quickly, with a keen eye for optimizing efficiency and reliability. Actively seeking entry-level opportunities to contribute technical expertise within a collaborative, industry-driven team while continuing to grow in the field of embedded and IoT systems.
       </p>
     </td>
     <td width="50%" valign="middle">
@@ -19,6 +19,7 @@
   </tr>
 </table>
 
+  ----
 
 ## Socials -
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Yatessh_Ghadage)
@@ -36,6 +37,8 @@
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
 
 
+
+------
 
 ## Tools (Currently Working On) -
 
@@ -65,13 +68,15 @@
 [![](https://visitcount.itsvg.in/api?id=Yatesh-1&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
+-----
+
 ## Also a Spotify Playlist Creator
 
 <table width="100%">
 <tr>
 <td width="60%" valign="top" align="justify">
 
-"A music enthusiast with a deep passion for discovering and curating sounds that resonate with different moods and moments, transforming emotions into meaningful playlists through thoughtful flow, understanding how rhythm, melody, and lyrics shape feelings, and continuously sharing music that connects with listeners and enhances everyday moments. Always exploring new genres and hidden gems, they strive to create immersive auditory experiences that evoke nostalgia, inspire creativity, and bring people together through the universal language of music."
+A music enthusiast with a deep passion for discovering and curating sounds that resonate with different moods and moments, transforming emotions into meaningful playlists through thoughtful flow, understanding how rhythm, melody, and lyrics shape feelings, and continuously sharing music that connects with listeners and enhances everyday moments. Always exploring new genres and hidden gems, they strive to create immersive auditory experiences that evoke nostalgia, inspire creativity, and bring people together through the universal language of music.
 </td>
 <td width="40%" align="center" valign="middle">
 
@@ -84,6 +89,13 @@
 </td>
 </tr>
 </table>
+
+
+
+
+----------------
+
+
 
 
 
