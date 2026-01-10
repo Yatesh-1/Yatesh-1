@@ -74,35 +74,19 @@
 <table width="100%">
   <tr>
     <td width="70%" valign="top">
-      <h3> Spotify Playlist Creator </h3>
+      <h3> Also Spotify Playlist Creator </h3>
       <p align="justify">
        “A music enthusiast with a deep passion for discovering and curating sounds that resonate with different moods and moments, transforming emotions into meaningful playlists through thoughtful flow, understanding how rhythm, melody, and lyrics shape feelings, and continuously sharing music that connects with listeners and enhances everyday moments.”
       </p>
       
 <td width="50%" valign="middle">
   <div align="center">
+    <img src="https://media.giphy.com/media/5ehBR5qtLEXBe/giphy.gif"
+         width="260" alt="Music Vibes">
+    <br><br>
     <a href="https://open.spotify.com/user/8d3slaxcq9toomjg0y0z61b0a" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg"
-           width="120" alt="Spotify Profile">
-    </a>
-  </div>
-</td>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  <img src="https://img.shields.io/badge/Spotify-Listen%20Now-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Profile">
+</a>
 
 
 <p align="center">
