@@ -71,6 +71,40 @@
 
 
 
+<table width="100%">
+  <tr>
+    <td width="70%" valign="top">
+      <h3> Spotify Playlist Creator </h3>
+      <p align="justify">
+       “A music enthusiast with a deep passion for discovering and curating sounds that resonate with different moods and moments, transforming emotions into meaningful playlists through thoughtful flow, understanding how rhythm, melody, and lyrics shape feelings, and continuously sharing music that connects with listeners and enhances everyday moments.”
+      </p>
+      
+<td width="50%" valign="middle">
+  <div align="center">
+    <a href="https://open.spotify.com/user/8d3slaxcq9toomjg0y0z61b0a" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg"
+           width="120" alt="Spotify Profile">
+    </a>
+  </div>
+</td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3Z2c3h5MG51aDR2cDJuMDRpdm1hZDhlMmxzZGF0b2l0MXpmM3lsayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11e56tPCqD9kjK/giphy.gif" alt="Cool GIF">
 </p>
