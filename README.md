@@ -89,13 +89,14 @@
 </a>
 
 
+<!-- Centered GIF -->
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3Z2c3h5MG51aDR2cDJuMDRpdm1hZDhlMmxzZGF0b2l0MXpmM3lsayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11e56tPCqD9kjK/giphy.gif" alt="Cool GIF">
 </p>
 
-
+<!-- Centered Text -->
 <p align="center">
-  <em> "I am Iron Man… building circuits by day, debugging code by night!"</em><br>
+  <em>"I am Iron Man… building circuits by day, debugging code by night!"</em><br>
   <em>⚡ Hardware glitches are scarier than villains, and software bugs are deadlier than Thanos!</em>
 </p>
 
